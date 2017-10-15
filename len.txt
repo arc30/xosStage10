@@ -1,0 +1,10 @@
+7008303606 : part order num
+
+
+
+disconnect internal battery: press and hold fn key button.while holding press s and v
+
+press 40s powerbutton
+
+shift press 5 times : small beep sound
+window+u
